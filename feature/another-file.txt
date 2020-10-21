@@ -1,2 +1,5 @@
-This is another file for test.
+This line is modified at feature-2 branch.
 This file was modified locally.
+
+
+This line was added at feature-2 branch
