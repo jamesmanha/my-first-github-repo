@@ -1,1 +1,2 @@
 This is another file for test.
+This file was modified locally.
